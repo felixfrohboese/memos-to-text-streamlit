@@ -3,3 +3,6 @@
 
 # Virtual Environment
 streamlit-mtt/
+
+# Git
+.gitignore
